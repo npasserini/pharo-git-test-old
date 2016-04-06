@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"on:id:author:message:timeStamp:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"on:id:info:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"uuidFromGitSHA:package:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"uuidFromSHA:" : "ThierryGoubier 8/23/2015 18:23:14" },
+	"instance" : {
+		"author:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"buildInfoWith:startingAt:version:ancestry:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"commitID" : "ThierryGoubier 8/23/2015 18:23:14",
+		"commitID:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"info" : "ThierryGoubier 8/23/2015 18:23:14",
+		"info:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"message:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"name" : "ThierryGoubier 8/23/2015 18:23:14",
+		"packageDirectory" : "ThierryGoubier 8/23/2015 18:23:14",
+		"packageDirectory:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"printString" : "ThierryGoubier 8/23/2015 18:23:14",
+		"summary" : "ThierryGoubier 8/23/2015 18:23:14",
+		"timeStamp:" : "ThierryGoubier 8/23/2015 18:23:14",
+		"version" : "ThierryGoubier 8/23/2015 18:23:14" } }
