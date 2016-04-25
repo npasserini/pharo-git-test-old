@@ -1,2 +1,2 @@
-(name 'Pharo-Git-Test-NicoPasserini.3' message 'Changes to test package update from unit tests' id 'a08a1870-acc0-4fb3-b049-b02cc7f28f64' date '25 April 2016' time '2:59:11.399742 pm' author 'NicoPasserini' ancestors ((name 'Pharo-Git-Test-NicolÃsPasserini.2' message 'Add some fake method.
-' id '1f6638ed-8235-5bdf-b15a-352db80dfae2' date '7 April 2016' time '3:18:23 pm' author 'NicolÃsPasserini' ancestors () stepChildren ())) stepChildren ())
+(name 'Pharo-Git-Test-NicoPasserini.4' message 'Changes to test package update from unit tests' id '1be1b3b7-6cb8-44e6-a2fd-26cf0160bbea' date '25 April 2016' time '4:08:21.081776 pm' author 'NicoPasserini' ancestors ((name 'Pharo-Git-Test-NicolÃsPasserini.3' message 'Changes to test package update from unit tests
+' id '11549432-7e3e-5a65-b8bf-38049c1f500a' date '25 April 2016' time '2:59:19 pm' author 'NicolÃsPasserini' ancestors () stepChildren ())) stepChildren ())
